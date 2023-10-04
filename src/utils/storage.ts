@@ -1,4 +1,4 @@
-const storagePrefix = 'bulletproof_react_';
+const storagePrefix = 'vite_template_';
 
 const storage = {
   getToken: () => {
